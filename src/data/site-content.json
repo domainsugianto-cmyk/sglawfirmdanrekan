@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "badge": "Kantor Hukum Terpercaya",
+    "title": "Kantor Hukum",
+    "titleAccent": "SG Law Firm",
+    "titleEnd": "dan Rekan",
+    "description": "Kepuasaan Anda, Prioritas Kami.. Berkomitmen untuk memberikan pengalaman terbaik bagi Anda. Kami percaya bahwa kepuasaan Anda adalah kunci untuk membangun hubungan yang langgeng dan mempercayakan bisnis Anda kepada kami.",
+    "stats": [
+      { "value": "500+", "label": "Kasus Ditangani" },
+      { "value": "16", "label": "Tim Profesional" },
+      { "value": "98%", "label": "Klien Puas" }
+    ]
+  },
+  "about": {
+    "title": "Kantor Hukum SG Law Firm dan Rekan",
+    "description": "Kami mengutamakan layanan, kualitas dan hasil yang terbaik. Layanan kami dijamin aman dan sudah berpengalaman, dengan penawaran biaya yang lebih terjangkau di banding tempat lain. Buktikan sendiri! Hubungi kami sekarang juga untuk pemesanan dan informasi lebih lanjut.",
+    "media": [
+      {
+        "type": "image",
+        "src": "/logo-new.jpg",
+        "alt": "Logo SG Law Firm",
+        "fit": "contain"
+      }
+    ]
+  },
+  "services": [
+    { "title": "Jasa Akuntansi", "description": "Pengelolaan pembukuan dan akuntansi profesional", "icon": "monitor" },
+    { "title": "Pajak", "description": "Konsultasi dan penyelesaian masalah perpajakan", "icon": "file" },
+    { "title": "Hukum", "description": "Pendampingan dan konsultasi hukum komprehensif", "icon": "globe" }
+  ],
+  "advantages": [
+    { "title": "Dijamin Aman", "description": "Mulai bertransaksi sekarang dan nikmati kemudahan dan keamanan yang kami tawarkan!", "icon": "shield" },
+    { "title": "Harga Terjangkau", "description": "Kami menawarkan harga yang terjangkau untuk produk-produk berkualitas tinggi.", "icon": "dollar" },
+    { "title": "Berpengalaman", "description": "Kami memiliki keahlian dan pengalaman kami untuk mencapai hasil terbaik!", "icon": "award" },
+    { "title": "Berkualitas", "description": "Kami berkomitmen untuk menyediakan produk dan layanan yang berkualitas", "icon": "check" }
+  ],
+  "contact": {
+    "address": "Modern, Ruko Mall Metropolis Town Square, Jl. Hartono Raya No.17 Unit GM 5#15-16, Klp. Indah, Kec. Tangerang, Kota Tangerang, Banten 15117",
+    "hours": "08.00 - 17.00 WIB",
+    "phone": "087772057005",
+    "whatsapp": "6287772057005",
+    "mapQuery": "Infinity+Workspace,+Tangerang"
+  },
+  "cta": {
+    "title": "Konsultasi Sekarang!",
+    "description": "Jangan ragu untuk menghubungi kami sekarang dan temukan solusi terbaik untuk mencapai tujuan Anda!"
+  },
+  "footer": {
+    "description": "Memberikan solusi hukum terbaik dengan integritas dan profesionalisme.",
+    "youtube": "https://www.youtube.com/@sglawfirmtvchannelnews",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=6287772057005&text&type=phone_number&app_absent=0",
+    "tiktok": "https://www.tiktok.com/@kantor.hukum.sgla?_t=ZS-90Ru1UKlnnU&_r=1"
+  }
+}
